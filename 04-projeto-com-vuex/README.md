@@ -1,4 +1,4 @@
-# 01-projeto-inicial => Foco no Vue-Router
+# 04-projeto-com-vuex
 
 > A Vue.js project
 
